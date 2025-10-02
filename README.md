@@ -49,11 +49,11 @@ The game lasts for 15 rounds, after which the winner is announced.
 
 | Screenshot 1 | Screenshot 2 |
 |--------------|--------------|
-| ![1](images/Card Combat CPUWins.png) | ![2](./images/CardCombatRounds.png) |
+| ![1](images/Card_Combat_CPUWins.png) | ![2](./images/Card_Combat_Rounds.png) |
 
 | Screenshot 3 | Screenshot 4 |
 |--------------|--------------|
-| ![3](./images/CardCombatPlayerWin.png) | ![4](./images/CardCombatCPUWins.png) |
+| ![3](./images/Card_Combat_PlayerWin.png) | ![4](./images/Card_Combat_CPUWins.png) |
 
 ---
 
