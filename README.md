@@ -54,8 +54,14 @@ The game lasts for 15 rounds, after which the winner is announced.
 
 ---
 
-## Rights
-All rights reserved.
+## Contact Information
+
+- [Email](mailto:elenakoni99@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/elena-konsoula/)  
+- [Personal Website](https://elena-konsoula.lovestoblog.com/?i=1)
+
+## License
+Copyright (c) Elena Konsoula 2025 This package is provided under the MIT License. 
 
 
 
