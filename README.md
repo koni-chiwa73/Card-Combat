@@ -45,6 +45,18 @@ The game lasts for 15 rounds, after which the winner is announced.
 
 ---
 
+## Screenshots
+
+| Screenshot 1 | Screenshot 2 |
+|--------------|--------------|
+| ![1](./images/CardCombatStart.png) | ![2](./images/CardCombatRounds.png) |
+
+| Screenshot 3 | Screenshot 4 |
+|--------------|--------------|
+| ![3](./images/CardCombatPlayerWin.png) | ![4](./images/CardCombatCPUWins.png) |
+
+---
+
 ## Future Improvements
 - Add sound effects for dealing cards and winning rounds
 - Add custom card deck designs
